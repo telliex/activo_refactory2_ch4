@@ -1,0 +1,24 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.5",
+    "@vue/test-utils": "^1.0.0-beta.29",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^24.8.0",
+    "regenerator-runtime": "^0.13.2",
+    "vue-jest": "^3.0.4",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
